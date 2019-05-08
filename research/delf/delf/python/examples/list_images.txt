@@ -1,0 +1,2 @@
+data/oxford5k_images/hertford_000056.jpg
+data/oxford5k_images/oxford_000317.jpg
